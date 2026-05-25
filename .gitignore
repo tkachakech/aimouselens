@@ -1,0 +1,4 @@
+﻿.ai_mouselens_v4_config.json
+__pycache__/
+*.pyc
+.env
